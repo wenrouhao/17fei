@@ -21,7 +21,7 @@ export default function About() {
                     </div>
                 </div>
                 <div>
-                    <img src="/qrcode.JPG" class="max-w-xs rounded-lg my-4" />
+                    <img src="/qrcode.jpg" class="max-w-xs rounded-lg my-4" />
                 </div>
             </div>
         </div>
