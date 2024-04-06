@@ -3244,7 +3244,7 @@
     var a = o(n("5530"));
     n("99af"), n("d3b7"), n("159b"), n("14d9"), n("3c65"), n("7db0"), n("d81d");
     var r = o(n("2ef0"));
-    t.identificationCode = ["171717"];
+    t.identificationCode = ["981104","000606","987654","532187","726543","390216","814569"];
     var i = [
       { id: 1, text: "起点" },
       { id: 2, text: "" },
