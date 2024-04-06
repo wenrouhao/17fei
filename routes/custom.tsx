@@ -21,7 +21,9 @@ export default function Custom() {
                             搭建一个收200元，会流量玩法的可以弄一下，我也偷师学习一下。
                         </p>
                         <p class="font-black">加微信 wrh171</p>
-                        <img src="user.jpg"/>
+                        <div>
+                          <img src="/user.jpg" class="max-w-xs rounded-lg my-4" />
+                        </div>
                     </div>
                 </div>
             </div>
