@@ -10,7 +10,7 @@ export default function Home() {
         <img src="/logo.png" class="w-16 h-16" />
         <h2 class="my-4">最新自由定制版即将发布</h2>
         <div class="text-left leading-8 font-black mt-8">
-          <div>点击即玩</div>
+          <div style="color:red;">点击“关于”了解详情</div>
         </div>
         <div class="text-center mt-8">
           <div class="font-black my-4">游戏列表</div>
