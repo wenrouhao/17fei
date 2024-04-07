@@ -10,7 +10,6 @@ export default function Home() {
         <img src="/logo.png" class="w-16 h-16" />
         <div class="text-left leading-8 font-black mt-8">
           <div style="color:red;">点击“飞行棋”体验游戏😏</div>
-          <div style="color:red;">点击“关于”了解详情</div>
         </div>
         <div class="text-center mt-8">
           <a href="/fxq/index.html" class="block px-10 my-10 border rounded bg-pink-600 underline w-60">开始✈️飞行棋</a>
@@ -21,6 +20,7 @@ export default function Home() {
           <a href="/ai" class="block px-4 my-4 border rounded bg-pink-600 underline w-60">AI伴侣</a> */}
         </div>
         <div class="my-2">支持android，ios，平板，电脑等设备访问</div>
+        <div style="color:red;" class="text-center text-1xl">点击“关于”了解详情</div>
       </div>
       <Footer></Footer>
     </div>
