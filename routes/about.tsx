@@ -10,7 +10,7 @@ export default function About() {
                 <div class="leading-8 text-gray-900 max-w-lg mt-8 max-auto">
                     <div class="text-lg text-gray-500">关于本站</div>
                     <div class="my-4">网站目前只接收客服人工收款</div>
-                    <div>5元购买永久识别码<a href="https://pic.imgdb.cn/item/661151b768eb9357134f267a.jpg" target="_blank" class="noline">点击打赏</a></div>
+                    <div>5元购买永久识别码<a href="https://pic.imgdb.cn/item/661151b768eb9357134f267a.jpg" target="_blank" class="noline underline">点击打赏</a></div>
                     <div>支付后添加微信[ wrh171 ] 1~12小时内响应</div>
                     <div class="mt-4">
                         如需其他定制开发， 欢迎联系合作。
