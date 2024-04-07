@@ -14,7 +14,7 @@ export default function Home() {
         </div>
         <div class="text-center mt-8">
           <div class="font-black my-4">游戏列表</div>
-          <a href="/fxq/index.html" class="block px-4 my-6 border rounded bg-pink-600 underline w-60">飞行棋</a>
+          <a href="/fxq/index.html" class="block px-6 my-6 border rounded bg-pink-600 underline w-60">飞行棋</a>
           {/* <a href="/card" class="block px-4 my-4 border rounded bg-pink-600 underline w-60">任务卡牌</a>
           <a href="/position" class="block px-4 my-4 border rounded bg-pink-600 underline w-60">姿势卡牌</a>
           <a href="/positions" class="block px-4 my-4 border rounded bg-pink-600 underline w-60">姿势大全</a>
